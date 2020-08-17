@@ -19,3 +19,4 @@ Check nodejs version
 # node -v
 ```
 Sample output 
+<img width="692" alt="Screenshot 2020-08-17 at 10 02 39" src="https://user-images.githubusercontent.com/46126326/90426336-34f4f480-e0c1-11ea-9a51-9ef4b71cad1b.png">
