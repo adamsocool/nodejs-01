@@ -2,7 +2,7 @@
 Install nodejs on LinuxONE Community Cloud and run applicatoins.
 
 ## Prerequisites
-1. Request access to LinuxONE Community Cloud. Follow instructions 
+Request access to LinuxONE Community Cloud. Follow instructions https://github.com/linuxone-community-cloud/technical-resources/blob/master/faststart/deploy-virtual-server.md
 
 ### Install postgres database server on LinuxONE Community Cloud
  
