@@ -28,7 +28,7 @@ $ npm -v
 ```
 <img width="1438" alt="Screenshot 2020-08-17 at 21 02 36" src="https://user-images.githubusercontent.com/46126326/90435580-7db3aa00-e0cf-11ea-8a2f-c82f80bbeccc.png">
 
-Create a node js script 
+## Create a node js script 
 ```sh
 $ node 
 > console.log(“This is a test”); 
@@ -63,7 +63,7 @@ Change directory to project-01
 ```sh
 $ cd project-01
 ```
-Create application 
+## Create an application 
 ```sh
 $ vim apps.js
 ```
