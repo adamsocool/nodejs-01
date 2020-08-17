@@ -22,10 +22,24 @@ Sample output
 
 <img width="1438" alt="Screenshot 2020-08-17 at 21 01 51" src="https://user-images.githubusercontent.com/46126326/90435565-7a202300-e0cf-11ea-9568-70fa510a9225.png">
 
+Check npm version
+```sh
+# npm -v
+```
 <img width="1438" alt="Screenshot 2020-08-17 at 21 02 36" src="https://user-images.githubusercontent.com/46126326/90435580-7db3aa00-e0cf-11ea-8a2f-c82f80bbeccc.png">
 
+Create a node js script 
+```sh
+# node 
+> console.log(“This is a test”); 
+```
+Sample output
 <img width="1436" alt="Screenshot 2020-08-17 at 21 03 39" src="https://user-images.githubusercontent.com/46126326/90435585-7ee4d700-e0cf-11ea-99f6-a605bb82b0bb.png">
 
+exit
+```sh
+> .exit
+```
 <img width="1432" alt="Screenshot 2020-08-17 at 21 04 02" src="https://user-images.githubusercontent.com/46126326/90435591-80ae9a80-e0cf-11ea-8c52-c8161cb5afff.png">
 
 <img width="1433" alt="Screenshot 2020-08-17 at 21 04 31" src="https://user-images.githubusercontent.com/46126326/90435595-81dfc780-e0cf-11ea-8f67-b72ab73f6a92.png">
