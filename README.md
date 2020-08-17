@@ -4,9 +4,9 @@ Install nodejs on LinuxONE Community Cloud and run applicatoins.
 ## Prerequisites
 1. Request access to LinuxONE Community Cloud. Follow instructions 
 
-### Step 1: Install postgres database server on LinuxONE Community Cloud
+### Install postgres database server on LinuxONE Community Cloud
  
-1.3 Install required packages
+Install required packages
    
 For RHEL: 
 ```sh
