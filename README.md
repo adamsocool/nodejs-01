@@ -70,3 +70,51 @@ $ vim apps.js
 <img width="1440" alt="Screenshot 2020-08-17 at 21 05 21" src="https://user-images.githubusercontent.com/46126326/90435602-83a98b00-e0cf-11ea-9426-e3b90a2df95d.png">
 Save file and exit. 
 
+Check the ip address of the server and copy it. 
+```sh
+$ nmcli
+```
+<img width="1437" alt="Screenshot 2020-08-17 at 21 07 12" src="https://user-images.githubusercontent.com/46126326/90444681-98d9e600-e0de-11ea-9f49-95596047a044.png">
+
+Run the application
+```sh
+$ node apps.js
+```
+<img width="1437" alt="Screenshot 2020-08-17 at 21 08 54" src="https://user-images.githubusercontent.com/46126326/90444702-a42d1180-e0de-11ea-8777-f7c1b5f44f4f.png">
+
+Open web browser, insert ip address port 3000
+<img width="1440" alt="Screenshot 2020-08-17 at 21 10 00" src="https://user-images.githubusercontent.com/46126326/90444760-c45cd080-e0de-11ea-8c99-2b12feecf71b.png">
+
+This was rendered using plain text, we will now render html.
+
+Create index.html using vscode
+
+Type ! and press enter and it will generate the outline on an html document for you. 
+Inside the body insert This is HTML so that you know you are rendering htm instead of plain text. 
+<img width="1439" alt="Screenshot 2020-08-17 at 21 10 37" src="https://user-images.githubusercontent.com/46126326/90444770-c757c100-e0de-11ea-9a68-4e4de35a9396.png">
+
+Sample output after pressing enter
+<img width="1440" alt="Screenshot 2020-08-17 at 21 11 00" src="https://user-images.githubusercontent.com/46126326/90444775-ca52b180-e0de-11ea-9828-86c826f3db57.png">
+
+Create the file on server using vim and copy the contents  
+```sh
+$ vim indexhtml.js
+```
+copy apps.js file content add a function in apps.js to use html instead of plain text and import a library so you can read the file index.html
+
+create file called appshtml.js and change the port to 3001
+```sh
+$ vim appshtml.js
+```
+<img width="1440" alt="Screenshot 2020-08-17 at 21 11 38" src="https://user-images.githubusercontent.com/46126326/90444779-cc1c7500-e0de-11ea-9b9d-7e1890087c61.png">
+
+Run application 
+```sh
+$ node appshtml.js
+```
+<img width="1436" alt="Screenshot 2020-08-17 at 21 12 21" src="https://user-images.githubusercontent.com/46126326/90444785-d0489280-e0de-11ea-8e35-007253a71c86.png">
+
+Open web browser, insert ip address port 3001
+<img width="1440" alt="Screenshot 2020-08-17 at 21 12 48" src="https://user-images.githubusercontent.com/46126326/90444792-d2125600-e0de-11ea-8caa-10add182c942.png">
+ 
+## Well done!
