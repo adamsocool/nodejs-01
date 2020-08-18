@@ -1,5 +1,5 @@
 # nodejs-01
-Install nodejs on LinuxONE Community Cloud and run applicatoins.
+Install nodejs on LinuxONE Community Cloud and run applications.
 
 ## Prerequisites
 Request access to LinuxONE Community Cloud. Follow instructions https://github.com/linuxone-community-cloud/technical-resources/blob/master/faststart/deploy-virtual-server.md
