@@ -100,7 +100,7 @@ Sample output after pressing enter
 
 Create the file on server using vim and copy the contents  
 ```sh
-$ vim indexhtml.js
+$ vim index.html
 ```
 copy apps.js file content add a function in apps.js to use html instead of plain text and import a library so you can read the file index.html
 
